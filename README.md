@@ -15,7 +15,7 @@ Working hands-on with **LangChain**, **OpenAI APIs**, and real-time dashboards f
 ### 💻 Tech Stack  
 **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Zustand, Redux toolkit, Storybook  
 **Backend:** Node.js (Express), MongoDB, REST APIs, FastAPI (learning)  
-**AI/ML:** LangChain, LLM Agents, OpenAI API, Plotly/Chart.js
+**AI/ML:** LangChain, LLM Agents, OpenAI API, Plotly/Chart.js, Canvas  
 **Tools:** Docker, GitHub Actions, Vercel, CI/CD Pipelines
 
 ---
