@@ -13,26 +13,23 @@ Working hands-on with **LangChain**, **OpenAI APIs**, and real-time dashboards f
 ---
 
 ### 💻 Tech Stack  
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Zustand, Storybook  
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Zustand, Redux toolkit, Storybook  
 **Backend:** Node.js (Express), MongoDB, REST APIs, FastAPI (learning)  
-**AI/ML:** LangChain, LLM Agents, OpenAI API, Plotly/Chart.js  
+**AI/ML:** LangChain, LLM Agents, OpenAI API, Plotly/Chart.js, Canvas 
 **Tools:** Docker, GitHub Actions, Vercel, CI/CD Pipelines
 
 ---
 
 ### 🌟 Featured Projects  
 
-- **Travel Planner AI** – GPT-powered trip planner with itinerary download  
-  [Repo](https://github.com/Harshof16/Travel_planner_AI) • [Live](https://project-travel-main2.vercel.app/)
-  
-- **ChatBotAI** – AI chatbot using Llama-3, Node.js, Socket.io  
-  [Repo](https://github.com/Harshof16/ChatBotAI) • [Live](https://chat-bot-ai-xi.vercel.app/)
-
-- **Python Tasks** – Daily mini-projects to practice automation, CLI tools, data parsing  
-  [Repo](https://github.com/Harshof16/Python_tasks)
-
-- **Problem Solving** – DSA practice & logic building (LeetCode, JS/TS)  
-  [Repo](https://github.com/Harshof16/Problem-Solving)
+| Project                     | Stack           | Description                                  | Links                        |
+|----------------------------|-----------------|----------------------------------------------|------------------------------|
+| ChatBotAI                  | TypeScript      | AI chatbot using OpenAI API, real-time chat  | [Repo](https://github.com/Harshof16/ChatBotAI) • [Live](https://chat-bot-ai-xi.vercel.app/)        |
+| Travel Planner AI          | TypeScript      | AI travel assistant with trip suggestions    | [Repo](https://github.com/Harshof16/Travel_planner_AI) • [Live](https://project-travel-main2.vercel.app/)        |
+| Python Tasks               | Python          | Practical mini-projects to master Python     | [Repo](https://github.com/Harshof16/Python_tasks)                    |
+| Problem Solving            | JavaScript      | DSA practice & problem-solving               | [Repo](https://github.com/Harshof16/Problem-Solving)                    |
+| Daily Mini Projects 🔧     | Node/JS/Python  | Practical backend/frontend daily tasks       | [Repo](https://github.com/Harshof16/Python_tasks)                    |
+| CI/CD Automation 🛠️       | GitHub Actions  | Automated deployment with Docker + CI/CD     | [Repo](#)                    |
 
 ---
 
