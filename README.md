@@ -44,7 +44,7 @@ Working hands-on with **LangChain**, **OpenAI APIs**, and real-time dashboards f
 
 ### 📬 Let’s Connect  
 📧 [Email](mailto:harshkla09@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/harsh-shukla-921566154/)
+🔗 [LinkedIn](https://www.linkedin.com/in/harsh-shukla-921566154/)  
 🔗 [Secondary GitHub (Org Contributions)](https://github.com/HarshShuka-Observance)
 
 ---
