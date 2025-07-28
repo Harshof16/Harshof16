@@ -12,7 +12,7 @@ Working on real-world AI projects involving **LangChain**, **OpenAI APIs**, and 
 ---
 
 ### 💻 Tech Stack  
-- **Frontend**: React.js, Next.js, Typescript, Tailwind CSS, Redux, Storybook, Vitest  
+- **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS, Redux, Storybook, Vitest  
 - **Backend**: Node.js (Express), MongoDB, PostgreSQL, REST APIs, FastAPI (learning)  
 - **AI/ML**: OpenAI API, LangChain, LLM Agents, Chatbots, Data Viz (Plotly, Chart.js)  
 - **DevOps**: GitHub Actions, Docker, Vercel, Netlify, CI/CD Pipelines
@@ -33,14 +33,14 @@ Working on real-world AI projects involving **LangChain**, **OpenAI APIs**, and 
 ---
 
 ### 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshShuklaDev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshShuklaDev&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Harshof16&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshof16&layout=compact&theme=radical)
 
 ---
 
 ### 🛠️ What I’m Working On  
 - Building **LLM-powered agentic applications** with LangChain  
-- Developing frontend for **AI dashboards** with complex charts, filters, and real-time UX
+- Developing frontend for **AI dashboards** with complex charts, filters, and real-time UX  
 - Working on **Node.js mini projects/tasks** to master backend systems  
 - Practicing **DSA daily** on LeetCode  
 - Learning **FastAPI and Python backend** for AI apps  
@@ -49,8 +49,8 @@ Working on real-world AI projects involving **LangChain**, **OpenAI APIs**, and 
 ---
 
 ### 📬 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/harsh-shukla-921566154/)
-- [Email](harshkla09@gmail.com)
+- 📧 [Email](mailto:harshkla09@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-shukla-921566154/)
 
 ---
 
