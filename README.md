@@ -24,6 +24,7 @@ Working hands-on with **LangChain**, **OpenAI APIs**, and real-time dashboards f
 
 | Project                     | Stack           | Description                                  | Links                        |
 |----------------------------|-----------------|----------------------------------------------|------------------------------|
+| NoteFlow               | Next.js, LangChain          | Notebook-LM style multi-modal RAG assistant     | [Repo](https://github.com/Harshof16/noteflow_rag) • [Live](https://noteflow-rag.vercel.app/)                    |
 | ChatBotAI                  | TypeScript      | AI chatbot using OpenAI API, real-time chat  | [Repo](https://github.com/Harshof16/Persona-AI-Chatbot) • [Live](https://persona-ai-chatbot.vercel.app/)        |
 | Travel Planner AI          | TypeScript      | AI travel assistant with trip suggestions    | [Repo](https://github.com/Harshof16/Travel_planner_AI) • [Live](https://project-travel-main2.vercel.app/)        |
 | Python Tasks               | Python          | Practical mini-projects to master Python     | [Repo](https://github.com/Harshof16/Python_tasks)                    |
