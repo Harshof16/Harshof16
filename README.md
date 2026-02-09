@@ -24,13 +24,13 @@ Hands-on experience with **LangChain, OpenAI APIs, vector search, and AI-driven 
 
 | Project | Stack | Description | Links |
 |--------|-------|-------------|-------|
-| NoteFlow (RAG) | Next.js, LangChain, Vector DB | Notebook-LM style multi-modal RAG assistant | [Repo](https://github.com/Harshof16/noteflow_rag) • [Live](https://noteflow-rag.vercel.app/) |
-| Persona Chatbot | TypeScript, OpenAI, Memory | AI chatbot with persistent persona, memory & streaming responses | [Repo](https://github.com/Harshof16/Persona-AI-Chatbot) • [Live](https://persona-ai-chatbot.vercel.app/) |
-| Travel Planner AI | TypeScript, Tailwind, Zustand | AI travel assistant generating itinerary & suggestions | [Repo](https://github.com/Harshof16/Travel_planner_AI) • [Live](https://project-travel-main2.vercel.app/) |
-| Thumbnail Maker | Gemini (NanoBanana), Next.js | AI-assisted thumbnail generator with text styling, layout composition & image processing | [Repo](https://github.com/Harshof16/thumbnail_maker_nanobanana) • [Live](https://thumbnail-maker-nanobanana.vercel.app/) |
-| Website Clone Agent | OpenAI, Puppeteer, cheerio | Agent that analyzes UI structure and generates layout clones | [Repo](https://github.com/Harshof16/agent-cloneWebsite) |
-| Browser Automation Agent | Node.js, OpenAI Agent SDK, Playwright | LLM-driven web automation for form filling & data extraction | [Repo](https://github.com/Harshof16/WebAutomation-Agent) |
-| Automation Tasks | Python | Practical daily mini-projects to master Python | [Repo](https://github.com/Harshof16/Python_tasks) |
+| NoteFlow (RAG) | Next.js, LangChain, Vector DB | Multi-modal RAG assistant | [Repo](https://github.com/Harshof16/noteflow_rag) • [Live](https://noteflow-rag.vercel.app/) |
+| Persona Chatbot | TypeScript, OpenAI | Persona + memory chatbot | [Repo](https://github.com/Harshof16/Persona-AI-Chatbot) • [Live](https://persona-ai-chatbot.vercel.app/) |
+| Travel Planner AI | TypeScript, Zustand | AI itinerary generator | [Repo](https://github.com/Harshof16/Travel_planner_AI) • [Live](https://project-travel-main2.vercel.app/) |
+| Thumbnail Maker | Next.js, Gemini |  AI thumbnail composer | [Repo](https://github.com/Harshof16/thumbnail_maker_nanobanana) • [Live](https://thumbnail-maker-nanobanana.vercel.app/) |
+| Website Clone Agent | OpenAI, Puppeteer | UI clone generator agent | [Repo](https://github.com/Harshof16/agent-cloneWebsite) |
+| Browser Automation Agent | Node, Playwright | LLM web automation | [Repo](https://github.com/Harshof16/WebAutomation-Agent) |
+| Automation Tasks | Python | Practice mini-projects | [Repo](https://github.com/Harshof16/Python_tasks) |
 
 ---
 
