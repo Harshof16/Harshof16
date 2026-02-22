@@ -36,9 +36,9 @@ Hands-on experience with **LangChain, OpenAI APIs, vector search, and AI-driven 
 
 ### 🛠️ Currently Building  
 - LangChain-based AI agents & RAG pipelines  
-- Node.js backends for GenAI applications 
+- Scalable Node.js backends for GenAI applications 
 - Next.js interfaces for AI-powered products  
-- Participating in hackathons & OSS GenAI  
+- Interactive web experiments (Canvas, Three.js, motion systems) 
 - Daily DSA & CI/CD automation
 
 ---
