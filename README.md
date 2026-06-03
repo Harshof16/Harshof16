@@ -24,8 +24,8 @@ Hands-on experience with **LangChain, OpenAI APIs, vector search, and AI-driven 
 
 | Project | Stack | Description | Links |
 |--------|-------|-------------|-------|
-| Prototype Agent | Next.js (TS), Llama 3.3 70B, Gemini 2.5 Flash, Kling 3.0, Playwright, FFmpeg | Multimodal multi-agent pipeline | [Repo](https://github.com/Harshof16/Prototype-agent) • [Live](https://prototype-agent-puce.vercel.app/) |
-| JobWeave | Next.js, Express, Playwright, Claude API, SQLite | Automated job pipeline - Claude-tailors resume per JD| [Repo](https://github.com/Harshof16/JobWeave) • [Live](https://job-weave-web.vercel.app/) |
+| Prototype Agent | Next.js, Llama 3.3 70B, Gemini 2.5 Flash, Kling 3.0, FFmpeg | Multimodal multi-agent pipeline: idea → doc + site + video | [Repo](https://github.com/Harshof16/Prototype-agent) • [Live](https://prototype-agent-puce.vercel.app/) |
+| JobWeave | Next.js, Express, Playwright, Claude API, SQLite | Automated job pipeline — Claude-tailors resume per JD | [Repo](https://github.com/Harshof16/JobWeave) • [Live](https://job-weave-web.vercel.app/) |
 | NoteFlow (RAG) | Next.js, LangChain, Vector DB | Multi-modal RAG assistant | [Repo](https://github.com/Harshof16/noteflow_rag) • [Live](https://noteflow-rag.vercel.app/) |
 | Persona Chatbot | TypeScript, OpenAI | Persona + memory chatbot | [Repo](https://github.com/Harshof16/Persona-AI-Chatbot) • [Live](https://persona-ai-chatbot.vercel.app/) |
 | Travel Planner AI | TypeScript, Zustand | AI itinerary generator | [Repo](https://github.com/Harshof16/Travel_planner_AI) • [Live](https://project-travel-main2.vercel.app/) |
