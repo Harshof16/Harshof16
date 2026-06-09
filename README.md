@@ -1,7 +1,7 @@
 # Hi there, I'm Harsh Shukla 👋  
 
 🚀 **Full-Stack Developer (Frontend-leaning)** | React • Next.js • Node.js • GenAI   
-📍 Lucknow, India | 🌐 Open to Remote/Hybrid Roles
+📍 Delhi NCR, India | 🌐 Open to Remote/Hybrid Roles
 
 ---
 
